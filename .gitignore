@@ -1,3 +1,9 @@
+# Eagle auto-router report
+*.pro
+
+# Eagle lock files
+*.lck
+
 # Eagle schematic backup files
 
 *.s#1
